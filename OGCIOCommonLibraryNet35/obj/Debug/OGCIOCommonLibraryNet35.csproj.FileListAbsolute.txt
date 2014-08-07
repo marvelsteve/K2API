@@ -1,0 +1,7 @@
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\bin\Debug\OGCIOCommonLibraryNet35.dll
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\bin\Debug\OGCIOCommonLibraryNet35.pdb
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\bin\Debug\SourceCode.HostClientAPI.dll
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\bin\Debug\SourceCode.Workflow.Client.dll
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\obj\Debug\OGCIOCommonLibraryNet35.dll
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\obj\Debug\OGCIOCommonLibraryNet35.pdb
+D:\Hugo\OGCIOCommonLibraryNet35\OGCIOCommonLibraryNet35\obj\Debug\OGCIOCommonLibraryNet35.csprojResolveAssemblyReference.cache
